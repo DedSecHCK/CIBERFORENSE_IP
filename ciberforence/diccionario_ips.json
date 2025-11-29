@@ -1,0 +1,22 @@
+{
+  "8.8.8.8": {
+    "categoria": "DNS público",
+    "descripcion": "Google Public DNS"
+  },
+  "186.78.123.45": {
+    "categoria": "Proveedor local",
+    "descripcion": "ISP nacional, posible usuario doméstico"
+  },
+  "203.0.113.45": {
+    "categoria": "Datacenter",
+    "descripcion": "IP asociada a infraestructura de nube"
+  },
+  "181.192.45.67": {
+    "categoria": "Lista negra",
+    "descripcion": "Reportada por actividad sospechosa"
+  },
+  "200.87.123.45": {
+    "categoria": "Proveedor local",
+    "descripcion": "ISP nacional, posible usuario doméstico"
+  }
+}
